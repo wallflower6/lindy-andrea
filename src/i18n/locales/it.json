@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "home": "Home",
+    "program": "Programma",
+    "venue": "Location",
+    "rsvp": "Conferma"
+  },
+  "home": {
+    "homepage": "Ci Sposiamo",
+    "subtitle": "Unisciti a noi nel nostro giorno speciale"
+  },
+  "program": {
+    "title": "Programma del Matrimonio"
+  },
+  "venue": {
+    "title": "Location"
+  },
+  "rsvp": {
+    "title": "Conferma Presenza"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "home": "Home",
+    "program": "Program",
+    "venue": "Venue",
+    "rsvp": "RSVP"
+  },
+  "home": {
+    "homepage": "Homepage",
+    "subtitle": "Join us on our special day"
+  },
+  "program": {
+    "title": "Wedding Program"
+  },
+  "venue": {
+    "title": "Venue"
+  },
+  "rsvp": {
+    "title": "RSVP"
+  }
+}
