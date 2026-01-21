@@ -67,13 +67,21 @@ button:focus-visible {
   }
 } */
 
+/*Colors
+#E86748
+#E56346
+#E05C42
+#D44939
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
 /* base styles */
 * {
   margin: 0;
   font-family: "Quicksand";
-  color: #333;
+  /*color: #333;*/
+  color: #30362F;
 }
 .navbar {
   padding: 20px;
@@ -84,7 +92,7 @@ button:focus-visible {
   border-bottom: 1px solid #f2f2f2;
 }
 .navbar h1 {
-  color: #f1356d;
+  color: #750D37;
 }
 .navbar .links {
   margin-left: auto;
@@ -95,10 +103,47 @@ button:focus-visible {
   padding: 6px;
 }
 .navbar a:hover {
-  color: #f1356d;
+  color: #750D37;
 }
 .content {
   max-width: 600px;
   margin: 40px auto;
   padding: 20px;
 }
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  color: inherit;
+}
+
+.logo {
+  height: 32px;        /* adjust as needed */
+  width: auto;
+}
+
+.brand h1 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.image-figure {
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.home-image {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+.image-caption {
+  margin-top: 0.4rem;
+  font-size: 0.8rem;
+  color: #777;
+  font-style: italic;
+}
+
