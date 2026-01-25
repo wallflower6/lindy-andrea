@@ -7,7 +7,8 @@ import Home from './components/Home.jsx';
 import Venue from './components/Venue.jsx';
 import Program from './components/Program.jsx';
 import RSVP from './components/RSVP.jsx';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Footer from "./components/Footer.jsx";
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
             <Route path="/rsvp" element={<RSVP />} />
           </Routes>
         </div>
+        <Footer />
       </div>
     </Router>
   );

@@ -1,4 +1,10 @@
 {
+  "general": {
+    "train": "Train"
+  },
+  "footer": {
+    "copyright": "Site created by Lindy and ChatGPT."
+  },
   "nav": {
     "home": "Home",
     "program": "Program",
@@ -7,15 +13,75 @@
   },
   "home": {
     "homepage": "Homepage",
-    "content_0": "This is a wedding of two introverts. Hence, expect nothing :-)"
+    "p0": "This is a wedding of two introverts. Hence, expect nothing :-) Also, the English version of this page was written by Lindy, and the Italian one by Andrea. Hence, if you notice a difference in tone, that's why :-D",
+    "p1": "We've chosen 6 June 2026 (only partially because Planck's constant starts with 6.626, and mostly because it's a Saturday in June) to celebrate!",
+    "p2": "If you've received a link to this website, it means you're someone important to us and we would love to have you celebrate with us. This site contains as much information as we can think of pertaining to the wedding, and if you still have questions, please feel free to contact any one of us.",
+    "p3": "If you are able to attend (or even if you aren't), please fill up the RSVP form found on the RSVP page of this website!"
   },
   "program": {
-    "title": "Wedding Program"
+    "title": "Wedding Program",
+    "p0": "Two introverts organising a party essentially means things wrap up pretty early, expected around sunset. Some details are still pending: please come back to this page a couple of weeks before the wedding for the finalised program!",
+    "program_flow": {
+      "title": "Expected Program Flow:",
+      "tagline": "For the most part, the day should unfold as such:",
+      "item0": "12:00pm",
+      "content0": "Official civil ceremony (timing TBD) - Please come on time! This is the ceremony where we get legally married ('ROM', in SG/MY-speak)",
+      "item1": "To follow",
+      "content1": "An aperitif, ie. light food",
+      "item2": "Lunch",
+      "content2": "The lunch menu will be posted here soon. The lunch will end with a cake-cutting.",
+      "item3": "After lunch",
+      "content3": "Some activities - we're open to ideas at this point. However, there will for sure be music (but we don't have a DJ). Since we're both nerds, we're blasting video game and film music; expect tunes from Dragon Age Origins, How to Train Your Dragon, Stardew Valley, Baldur's Gate 3, and many more."
+    }
   },
   "venue": {
-    "title": "Venue"
+    "title": "Venue",
+    "p0": "The civil ceremony and lunch will be at a restaurant; ",
+    "p1": "We chose this location as we wanted a celebration outdoors amidst lesser-tamed nature, so expect mountains, meadows, and being in the middle of nowhere.",
+    "venue_transport": {
+      "title": "Arriving Here",
+      "bus": {
+        "title": "Bus",
+        "main": "The easiest way to get here is by car. If this isn't possible, there is a bus line through Torino - Ceres - Forno Alpi Graie. View the timings here:"
+      },
+      "air": {
+        "title": "Air",
+        "main": "If you'll be coming to Italy from abroad, we recommend flying to either Torino Caselle airport (TRN) or Milano Malpensa airport (MXP):",
+        "torino_airport": "From Torino Caselle (TRN)",
+        "torino_airport_p0": "Aim to reach Torino Porta Susa with a train or bus (train recommended, but buses are available outside of the train's operational hours).",
+        "caselle_susa": "(select your departure point: Torino aeroporto di Caselle; arrival point: Torino Porta Susa)",
+        "milan_airport": "From Milano Malpensa (MXP)",
+        "milan_airport_p0": "There are several buses that go directly to Torino Porta Susa. Travel time is around 2 hours. You can usually find these buses outside Doors 3 or 4 of Arrivals. They are usually green / blue, and the companies are Arriva Italia or Flibco. You can buy tickets for these online (link below) but you may also buy the ticket directly with the bus conductor on the day itself (you can pay with card). Recommended to buy them on the day itself from the conductor as you may not know the exact time you clear immigration after landing. Just approach the most likely bus, ask them if they go to Torino Porta Susa (or see if they have signs)",
+        "milan_airport_p1": "",
+        "milan_airport_p2": "",
+        "milan_bus_disclaimer": "The website above, Omio, has an extra 1 euro cost, but it displays available buses from different companies. To avoid this extra cost, you could book directly on the website of the bus company you have chosen or from the conductor. The base cost is 22 euro."
+      },
+      "p0": "If you need help organizing the trip, please feel free to contact us, we'll do our best to help you organize as much of the trip as possible.",
+      "p1": "If you have booked a hotel in Turin, it would be easier to reach it from Torino Porta Susa with the metro/subway/MRT or the tram/bus."
+    },
+    "venue_accoms": {
+      "title": "Accommodation",
+      "p0": "The location has five available rooms for the nights of 5th or 6th June. We are reserving some of this space for family members so please let us know as soon as possible if you would need a room.",
+      "p1": "There are five more available rooms at a B&B near the venue:",
+      "accoms1": {
+        "name": "B&B Ca' D'Ambra",
+        "address": "Via Monti, 1 - 10070 Bonzo (TO)",
+        "desc": "Approx. 10 mins drive from the wedding location. If you need a room, contact us directly."
+      },
+      "p2": "If you plan to stay in and explore Turin before/after the wedding, let us know as well, we would be happy to help you find suitable accommodation and also help with planning :-)"
+    },
+    "venue_activities": {
+      "title": "Activities",
+      "p0": "For things to do in Groscavallo, check the website of the venue itself:",
+      "p1": "Otherwise, there are plenty of things to do in Turin as well. For international guests, you may also wish to explore other cities within Italy (Milan, Rome, Florence, etc. are accessible by high-speed rail), or neighbouring countries (eg. trains are available to cities like Lyon / Paris (France), Lugano / Zurich / Geneva (Switzerland))."
+    }
   },
   "rsvp": {
-    "title": "RSVP"
+    "title": "RSVP",
+    "google_form": "Please fill up the Google Form here to confirm your attendance.",
+    "p0": "Your email is required in the form so that your response can be sent to you, allowing you to modify it if needed.",
+    "p1": "The first question would be a code to access the rest of the form, which will be provided to you with the link to this website. This is to prevent outsiders from accessing the form - because this project is publicly available on Lindy's Github.",
+    "ask_for_money": "If you're thinking of contributing something as a wedding gift, your presence would already be a great gift for us, especially if you came from beyond Italy <3 However, if you would still like to contribute, we would appreciate any monetary contributions, which would definitely help towards organizing a planned honeymoon in Japan (no, Andrea is the weeb, not me)",
+    "andrea_iban": "For bank transfers: IT23H0306930551100000005243 (Andrea). Or just come with a red packet!"
   }
 }

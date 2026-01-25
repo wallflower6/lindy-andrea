@@ -1,4 +1,10 @@
 {
+  "general": {
+    "train": "Treno"
+  },
+  "footer": {
+    "copyright": "Sito creato da Andrea e Lindy."
+  },
   "nav": {
     "home": "Home",
     "program": "Programma",
@@ -7,15 +13,75 @@
   },
   "home": {
     "homepage": "Ci Sposiamo",
-    "content_0": "Questo è il matrimonio di due introversi. Quindi, non aspettatevi nulla :-)"
+    "p0": "Questo è il matrimonio di due introversi. Quindi, non aspettatevi nulla :-) La parte italiana è scritta da Andrea mentre la parte inglese è scritta da Lindy, quindi se noti una differenza nel modo di scrivere, ecco perchè :-)",
+    "p1": "Il 6 giugno 2026 è il giorno che abbiamo scelto per mettere fine alla nostra relazione a distanza e iniziare un nuovo capitolo insieme.",
+    "p2": "Ci piacerebbe festeggiare questo momento speciale con tutte le persone che ci sono care. In questo sito troverete tutte le informazioni utili sulla giornata.",
+    "p3": "Se vi va di farne parte (o anche se non potrete esserci), vi chiediamo di compilare il form disponibile alla pagina RSVP."
   },
   "program": {
-    "title": "Programma del Matrimonio"
+    "title": "Programma del Matrimonio",
+    "p0": "Abbiamo organizzato la giornata in modo tale che la festa si concluda prima del tramonto. Alcuni dettagli sono ancora in fase di definizione: vi chiediamo di controllare nuovamente questa pagina qualche settimana prima della cerimonia per gli aggiornamenti finali",
+    "program_flow": {
+      "title": "Programma indicativo",
+      "tagline": "A grandi linee, la giornata si svolgerà così:",
+      "item0": "Ore 12:00",
+      "content0": "Cerimonia civile ufficiale (orario da confermare) - Vi raccomandiamo la puntualità.",
+      "item1": "A seguire",
+      "content1": "Ricco aperitivo",
+      "item2": "Pranzo",
+      "content2": "Proseguiremo con il pranzo, che si concluderà con il taglio della torta.",
+      "item3": "Dopo pranzo",
+      "content3": "Musica per chi avrà voglia di ballare… e altre incredibili attività per chi invece preferisce altro :-)"
+    }
   },
   "venue": {
-    "title": "Location"
+    "title": "Location",
+    "p0": "La cerimonia civile e la festa si terranno entrambe presso il ristorante ",
+    "p1": "La location si trova tra le montagne della Val Grande di Lanzo: ci siamo innamorati fin da subito della natura che la circonda e non vediamo l'ora di condividerla con voi.",
+    "venue_transport": {
+      "title": "Come arrivare",
+      "bus": {
+        "title": "Bus",
+        "main": "Il modo più semplice per raggiungere la location è in auto. Se questo non è possibile, il modo migliore consiste nel raggiungere Torino e poi affidarsi al servizio bus Torino - Ceres - Forno Alpi Graie, i cui orari possono essere consultati qui:"
+      },
+      "air": {
+        "title": "Aeroplano",
+        "main": "Per chi arriva dall'estero, consigliamo di atterrare a Torino Caselle o Milano Malpensa:",
+        "torino_airport": "Da Torino Caselle",
+        "torino_airport_p0": "È possibile raggiungere Torino Porta Susa con il treno oppure con il bus negli orari in cui il treno non è disponibile.",
+        "caselle_susa": "(selezionare partenza: Torino aeroporto di Caselle; arrivo: Torino Porta Susa)",
+        "milan_airport": "Da Milano Malpensa",
+        "milan_airport_p0": "È disponibile uno shuttle bus che porta direttamente a Torino Porta Susa. Tempo di percorrenza: circa 2 ore.",
+        "milan_airport_p1": "",
+        "milan_airport_p2": "",
+        "milan_bus_disclaimer": "Omio aggrega i bus disponibili da differenti compagnie ma ha un sovrapprezzo di 1 euro, potete anche andare sui siti delle varie compagnie per risparmiarlo oppure fare il biglietto direttamente a bordo del bus (meglio se pagate con la carta). Il costo base è 22 euro."
+      },
+      "p0": "Se avete bisogno di aiuto per organizzare il viaggio, contattateci: faremo del nostro meglio per trovare una soluzione insieme.",
+      "p1": "Se avete bloccato un hotel a Torino, esso sarà poi facilmente raggiungibile da Torino Porta Susa utilizzando la metropolitana o i tram/bus"
+    },
+    "venue_accoms": {
+      "title": "Alloggio",
+      "p0": "La struttura dispone di alcune camere prenotabili sia per la notte del 5 giugno sia per la notte del 6 giugno.",
+      "p1": "Le camere sono cinque; inoltre, sono disponibili altre cinque camere presso un B&B convenzionato:",
+      "accoms1": {
+        "name": "B&B Ca' D'Ambra",
+        "address": "Via Monti, 1 - 10070 Bonzo (TO)",
+        "desc": "A circa 10 minuti in auto dal luogo della cerimonia. Se avete bisogno di una camera, contattateci: possiamo occuparci direttamente noi della prenotazione."
+      },
+      "p2": "Se invece avete in programma di soggiornare a Torino per qualche giorno, scriveteci pure: saremo felici di aiutarvi a trovare la zona e la struttura più adatte alle vostre esigenze :-)"
+    },
+    "venue_activities": {
+      "title": "Attività",
+      "p0": "Per le attività da fare a Groscavallo, potete consultare direttamente il link alla pagina web del sito di Fermata Alpi Graie:",
+      "p1": "Se qualcuno è interessato in attività da fare a Torino, può contattarci direttamente, ce ne sono così tante che fare un elenco esaustivo è impossibile."
+    }
   },
   "rsvp": {
-    "title": "Conferma Presenza"
+    "title": "Conferma Presenza",
+    "google_form": "Vi chiediamo di compilare il Google Form per confermare la tua presenza.",
+    "p0": "La tua mail è richiesta nel form così che tu possa ricevere la risposta, in modo da permetterti di modificarla se necessario.",
+    "p1": "La prima domanda è un codice necessario per accedere al resto del form.",
+    "ask_for_money": "La vostra presenza è per noi il regalo più bello. Se vi facesse piacere farci un pensiero, tutto sarà ovviamente gradito; al momento preferiamo un contributo in denaro, che ci aiuterà a organizzare una festa in Malesia e il nostro viaggio di nozze in Giappone :-)",
+    "andrea_iban": "IBAN: IT23H0306930551100000005243 (Andrea)"
   }
 }
