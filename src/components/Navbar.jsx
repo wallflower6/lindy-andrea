@@ -1,6 +1,6 @@
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
-import DoubleHappiness_v0 from "../assets/DoubleHappiness_v0.png"
+import DoubleHappiness_v1 from "../assets/DoubleHappiness_v1.png"
 
 export default function Navbar() {
   const { t, i18n } = useTranslation();
@@ -22,7 +22,7 @@ export default function Navbar() {
       </a> */}
 
       <Link to="/" className="brand">
-        <img src={DoubleHappiness_v0} alt="A+L logo" className="logo" />
+        <img src={DoubleHappiness_v1} alt="A+L logo" className="logo" />
         <h1>A+L</h1>
       </Link>
 
@@ -41,7 +41,7 @@ export default function Navbar() {
             to="/rsvp"
             style={{
               color: "white",
-              backgroundColor: "#750D37",
+              backgroundColor: "#5A464C",
               borderRadius: "8px",
               padding: "6px 12px",   // recommended for button feel
               textDecoration: "none",
