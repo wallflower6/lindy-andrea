@@ -22,6 +22,8 @@ const Program = () => {
         <strong>{t("program.program_flow.item3")}</strong>
         <em>{t("program.program_flow.content3")}</em>
       </div>
+
+      <p><strong>Dress Code: </strong>{t("program.dress_code")}</p>
     </div>
   );
 }
