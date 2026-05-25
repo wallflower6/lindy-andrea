@@ -25,13 +25,13 @@
       "title": "Programma indicativo",
       "tagline": "A grandi linee, la giornata si svolgerà così:",
       "item0": "Ore 12:00",
-      "content0": "Cerimonia civile ufficiale (orario da confermare) - Vi raccomandiamo la puntualità.",
+      "content0": "Cerimonia civile ufficiale - Vi raccomandiamo la puntualità.",
       "item1": "A seguire",
       "content1": "Ricco aperitivo",
       "item2": "Pranzo",
       "content2": "Proseguiremo con il pranzo, che si concluderà con il taglio della torta.",
       "item3": "Dopo pranzo",
-      "content3": "Musica per chi avrà voglia di ballare… e altre incredibili attività per chi invece preferisce altro :-)"
+      "content3": "Musica per chi avrà voglia di ballare e tante chiacchiere :-)"
     },
     "dress_code": "Vestite quello che preferite, anche abiti di colore bianco :-)"
   },
@@ -55,6 +55,11 @@
         "milan_airport_p0": "È disponibile uno shuttle bus che porta direttamente a Torino Porta Susa. Tempo di percorrenza: circa 2 ore.",
         "milan_airport_p1": "",
         "milan_airport_p2": "",
+        "milan_airport_p3": "",
+        "milan_airport_p4": "",
+        "milan_airport_p5": "",
+        "milan_airport_p6": "",
+        "milan_airport_p7": "",
         "milan_bus_disclaimer": "Omio aggrega i bus disponibili da differenti compagnie ma ha un sovrapprezzo di 1 euro, potete anche andare sui siti delle varie compagnie per risparmiarlo oppure fare il biglietto direttamente a bordo del bus (meglio se pagate con la carta). Il costo base è 22 euro."
       },
       "p0": "Se avete bisogno di aiuto per organizzare il viaggio, contattateci: faremo del nostro meglio per trovare una soluzione insieme.",
